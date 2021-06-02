@@ -1,0 +1,22 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+nav {
+    background-color: lightgrey;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+.navItem{
+    width:150px;
+    color:white;
+    background-color:#333333;
+    padding:15px 25px;
+    text-align:center;
+}
